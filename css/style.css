@@ -1,0 +1,58 @@
+:root{
+      --primary-dark-color: hsl(0, 0%, 12%);
+      --primary-color: hsl(75, 94%, 57%);
+      --primary-light-color: hsl(0, 0%, 12%);
+      --secondary-color: hsl(0, 0%, 20%);
+      --secondary-dark-color: hsl(0, 0%, 8%);
+      --light-color: hsl(0, 0%, 100%);
+}
+
+body{
+    background-color: var(--secondary-dark-color);
+}
+
+div.social-card{
+    background-color: var(--primary-light-color);
+    width: 400px;
+    height: 581px;
+    margin: 100px auto;
+}
+
+div.social-card .container{
+    width: 95%;
+}
+
+div.social-card img{
+    border-radius: 100px;
+    margin-left: 141px;
+    width: 100px;
+    margin-top: 32px;
+}
+
+div.social-card h1{
+    color: var(--light-color);
+    margin-left: 95px;
+}
+
+div.social-card h4{
+    color: var(--primary-color);
+    margin-left: 107px;
+    margin-top: -15px;
+}
+
+div.social-card p{
+    color: var(--light-color);
+    margin-left: 71px;
+}
+
+div.social-card button{
+    /* display: block;  */
+    border-radius: 10px;
+    width: 308px;
+    height: 39px;
+    margin-left: 48px;
+    color: var(--light-color);
+    background-color: var(--secondary-color);
+    /* margin: 16px; */
+    margin-bottom: 14px;
+}
