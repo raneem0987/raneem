@@ -30,6 +30,8 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
+![_D__my%20intern_social-links-profile-main_index html(Nest Hub Max)](https://github.com/user-attachments/assets/2d4bbeba-c7ea-49f6-b6d2-cd45dce56d7e)
+
 ![_D__my%20intern_social-links-profile-main_index html(Nest Hub)](https://github.com/user-attachments/assets/a5044494-fcc4-40fd-a7a7-52f56ab26be4)
 
 ### Links
